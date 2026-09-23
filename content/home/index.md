@@ -52,4 +52,4 @@ supervision:
   - item: M. Tech = 04
 ---
 
-Welcome to my personal homepage.
+Welcome to my personal homepage.![](/images/Central_University_of_Haryana_logo.png)
