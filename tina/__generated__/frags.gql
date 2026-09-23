@@ -1,0 +1,52 @@
+fragment HomeParts on Home {
+  __typename
+  title
+  name
+  role
+  affiliation
+  email1
+  email2
+  phone
+  orcid
+  scholar
+  photo
+  news {
+    __typename
+    item
+  }
+  specialization {
+    __typename
+    item
+  }
+  education {
+    __typename
+    item
+  }
+  experience {
+    __typename
+    item
+  }
+  adminExperience {
+    __typename
+    item
+  }
+  publicationSummary {
+    __typename
+    item
+  }
+  patents {
+    __typename
+    item
+  }
+  supervision {
+    __typename
+    item
+  }
+  body
+}
+
+fragment PageParts on Page {
+  __typename
+  title
+  body
+}

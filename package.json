@@ -1,0 +1,28 @@
+{
+  "name": "tempapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "tinacms dev -c \"next dev\"",
+    "build": "tinacms build && next build",
+    "start": "tinacms build && next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@tinacms/cli": "^3.0.0",
+    "isomorphic-git": "^1.42.2",
+    "next": "16.3.6",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "tinacms": "^3.14.0",
+    "which-typed-array": "^1.1.24"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.6",
+    "typescript": "^5"
+  }
+}
