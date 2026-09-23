@@ -8,7 +8,7 @@ email2: manish.kumar@cuh.ac.in
 phone: '+919255140623'
 orcid: 'https://orcid.org/0000-0002-4827-6642'
 scholar: 'https://scholar.google.com/citations?user=cnV7C-4AAAAJ&hl=en'
-photo: /WhatsApp-Image-2026-09-23-at-15.45.49.jpeg
+photo: /zz1.jpg
 specialization:
   - item: Renewable Energy Sources
   - item: Electrical Vehicle
