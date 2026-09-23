@@ -2,13 +2,13 @@
 title: Welcome to My Portfolio
 name: Dr. MANISH KUMAR
 role: Assistant Professor
-affiliation: Department of Electrical Engineering, School of Engineering and Technology, Central University of Haryana.
+affiliation: 'Department of Electrical Engineering, School of Engineering and Technology, Central University of Haryana.'
 email1: khanagwal.manish@gmail.com
 email2: manish.kumar@cuh.ac.in
-phone: "+919255140623"
-orcid: https://orcid.org/0000-0002-4827-6642
-scholar: https://scholar.google.com/citations?user=cnV7C-4AAAAJ&hl=en
-photo: /images/pic.jpg
+phone: '+919255140623'
+orcid: 'https://orcid.org/0000-0002-4827-6642'
+scholar: 'https://scholar.google.com/citations?user=cnV7C-4AAAAJ&hl=en'
+photo: /WhatsApp-Image-2026-09-23-at-15.45.49.jpeg
 specialization:
   - item: Renewable Energy Sources
   - item: Electrical Vehicle
@@ -17,14 +17,14 @@ specialization:
   - item: Congestion Management of Transmission and Distribution System
   - item: Nodal price Management of Transmission and Distribution System
 education:
-  - item: Ph.D – Electrical Engineering, NIT Kurushetra
-  - item: M.Tech -- Electrical Engineering (Power System), NIT Kurushetra
-  - item: B.E -- Instrumentation Engineering, SLIET Longowal, Punjab
-  - item: Diploma – Electrical Engineering, Govt. Polytechnic Sirsa
+  - item: 'Ph.D – Electrical Engineering, NIT Kurushetra'
+  - item: 'M.Tech -- Electrical Engineering (Power System), NIT Kurushetra'
+  - item: 'B.E -- Instrumentation Engineering, SLIET Longowal, Punjab'
+  - item: 'Diploma – Electrical Engineering, Govt. Polytechnic Sirsa'
 experience:
-  - item: 8+ Assistant Professor in Electrical Engg. Deptt. SOE&T, CUH
+  - item: '8+ Assistant Professor in Electrical Engg. Deptt. SOE&T, CUH'
   - item: Five year four month research as a Senior Research Fellow in NIT Kurukshetra.
-  - item: Assistant Professor in Doon Vally Engg. College, Karnal.2011.
+  - item: 'Assistant Professor in Doon Vally Engg. College, Karnal.2011.'
   - item: One year teaching as an Lecture in CDLM Engg.College Paniwala mota Sirsa.
 adminExperience:
   - item: OSD Vice- Chancellor ( Infra Maintance) in CUH
@@ -40,7 +40,7 @@ adminExperience:
   - item: Member of some purchase committee in CUH
   - item: Lab In-charge of Machine and M.Tech lab
   - item: Nodal Officer (Nasha Mukt Bhart Abhyan)
-  - item: Member of Security, Parking and Discipline Committee
+  - item: 'Member of Security, Parking and Discipline Committee'
 publicationSummary:
   - item: Refereed Journals = 27
   - item: Book chapter = 2
